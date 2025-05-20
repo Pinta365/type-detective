@@ -1,5 +1,8 @@
 # type-detective
 
+[![JSR](https://jsr.io/badges/@pinta365/type-detective)](https://jsr.io/@pinta365/type-detective)
+[![JSR Score](https://jsr.io/badges/@pinta365/type-detective/score)](https://jsr.io/@pinta365/type-detective)
+
 Detect and generate TypeScript type definitions from your data.
 
 Type Detective is a runtime-agnostic module for TypeScript type inference from

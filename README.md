@@ -53,6 +53,13 @@ npx jsr add @pinta365/type-detective
 # Bun
 bunx jsr add @pinta365/type-detective
 ```
+## Live Demo
+
+Try Type Detective in your browser:
+
+[![Open in JSFiddle](https://jsfiddle.net/img/logo.png)](https://jsfiddle.net/pinta365/2o3fkx8e/)
+
+[https://jsfiddle.net/pinta365/2o3fkx8e/](https://jsfiddle.net/pinta365/2o3fkx8e/)
 
 ## Basic Usage
 
